@@ -1,0 +1,28 @@
+{
+  "name": "unseen-library",
+  "version": "1.0.0",
+  "description": "Tracks and manages the PDX Sci-FI/Fantasy Bookclub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "nodemon ./start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kendrickm/unseen-library.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kendrickm/unseen-library/issues"
+  },
+  "homepage": "https://github.com/kendrickm/unseen-library#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
